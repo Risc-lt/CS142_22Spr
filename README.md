@@ -1,4 +1,4 @@
-# Stanford-CS142
+# Stanford CS142
 
 ### Course site: 
 [CS142](https://web.stanford.edu/class/cs142/)
